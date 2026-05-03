@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
     cout << "Hello world" << endl;
+    // for input -- 2nd commit
     string name;
     cout <<  "enter your name: ";
     cin >> name;
